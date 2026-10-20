@@ -1,0 +1,24 @@
+{
+  "name": "milvus",
+  "displayName": "Milvus Knowledge Base",
+  "version": "0.2.0",
+  "description": "Import and update documents in Milvus, retrieve relevant passages with source citations, and inspect connections and collections through Python scripts using MilvusClient.",
+  "author": {
+    "name": "yin min"
+  },
+  "homepage": "https://milvus.io",
+  "repository": "https://github.com/zilliztech/Grokbot-Milvus-Plugin",
+  "license": "Apache-2.0",
+  "keywords": [
+    "milvus",
+    "zilliz",
+    "vector-database",
+    "vector-search",
+    "hybrid-search",
+    "bm25",
+    "rag",
+    "ollama",
+    "knowledge-base"
+  ],
+  "logo": "assets/logo.svg"
+}
